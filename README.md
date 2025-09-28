@@ -1,6 +1,6 @@
 # 📌 Lista de Tarefas (CRUD)
 
-Aplicação desenvolvida como parte do **Projeto Avaliativo – 1º Bimestre – 6º DSM (LDM)** na FATEC Franca.  
+Aplicação desenvolvida como parte do **Projeto Avaliativo – 1º Bimestre – 6º DSM (LDM)** da FATEC Franca.  
 Trata-se de uma API REST para gerenciamento de tarefas do dia a dia (**CRUD completo**), utilizando **Java Spring Boot** e **PostgreSQL**.
 
 ---
