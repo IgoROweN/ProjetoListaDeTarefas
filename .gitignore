@@ -1,0 +1,72 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Compilados ###
+/target/
+/out/
+/build/
+
+### IDEs ###
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+/bin/
+/.apt_generated/
+/.factorypath
+/.springBeans
+
+### SO ###
+.DS_Store
+Thumbs.db
+
+### Logs ###
+*.log
+
+### Arquivos temporários ###
+*.tmp
+*.swp
+*.bak
+*~
+
+### Configurações sensíveis ###
+src/main/resources/application.properties
+src/main/resources/application.yml
+
+### Test coverage / relatórios ###
+/coverage/
+/test-output/
+/jacoco.exec
+
